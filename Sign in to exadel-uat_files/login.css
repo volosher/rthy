@@ -420,7 +420,8 @@ input[type="password"]:hover {
 
 #kc-otp-login-form #otp {
   caret-color: transparent;
-  font-family: unset;
+  font-family: "Poppins";
+  font-weight: 500;
   font-size: 22px;
   width: 380px;
   box-sizing: border-box;
@@ -441,7 +442,6 @@ input[type="password"]:hover {
     text-align: center;
   }
   #kc-otp-login-form #otp {
-    font-weight: 700;
     width: 280px;
     font-size: 16px;
     background-position: left center;
