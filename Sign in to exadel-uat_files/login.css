@@ -432,10 +432,10 @@ input[type="password"]:hover {
   background-position: top left;
   background-repeat: no-repeat;
   background-size: 320px 46px;
-  letter-spacing: 45px;
+  letter-spacing: 42px;
   margin-top: 20px;
   outline: none;
-  padding-left: 15px;
+  padding-left: 16px;
   white-space: normal;
 }
 
