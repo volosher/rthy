@@ -436,6 +436,22 @@ input[type="password"]:hover {
   white-space: normal;
 }
 
+@media only screen and (-webkit-min-device-pixel-ratio: 3) {
+  #kc-otp-login-form #otp {
+    width: 280px;
+    font-size: 16px;
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: 220px 28px;
+    letter-spacing: 39px;
+    margin-top: 20px;
+    outline: none;
+    margin-left: 53px;
+    padding-left: 10px;
+    white-space: normal;
+  }
+}
+
 @media screen and (max-width: 440px) {
   .alert {
     text-align: center;
