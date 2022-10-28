@@ -441,6 +441,7 @@ input[type="password"]:hover {
     text-align: center;
   }
   #kc-otp-login-form #otp {
+    font-weight: 700;
     width: 280px;
     font-size: 16px;
     background-position: left center;
